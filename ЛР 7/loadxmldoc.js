@@ -11,5 +11,5 @@ else
 
 
 xhttp.send();
-
+return xhttp.responseXML;
 }
