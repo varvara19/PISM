@@ -6,7 +6,7 @@ if (window.XMLHttpRequest)
  }
 else
  {
- var xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+
  }
 
 
